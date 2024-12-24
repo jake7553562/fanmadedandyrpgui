@@ -280,3 +280,24 @@ Tab2:AddButton({
       		game.ReplicatedStorage.Assets.Requests.Communicate:FireServer(game.ReplicatedStorage.Assets.VIPMorphs.BuffGoob)
   	end    
 })
+
+Tab2:AddButton({
+	Name = "Cool Connie",
+	Callback = function()
+      		game.ReplicatedStorage.Assets.Requests.Communicate:FireServer(game.ReplicatedStorage.Assets.VIPMorphs.CoolConnie)
+  	end    
+})
+
+Tab2:AddButton({
+	Name = "Cotton",
+	Callback = function()
+      		game.ReplicatedStorage.Assets.Requests.Communicate:FireServer(game.ReplicatedStorage.Assets.VIPMorphs.Cotton)
+  	end    
+})
+
+Tab2:AddButton({
+	Name = "DP Astro",
+	Callback = function()
+      		game.ReplicatedStorage.Assets.Requests.Communicate:FireServer(game.ReplicatedStorage.Assets.VIPMorphs.DPAstro)
+  	end    
+})
