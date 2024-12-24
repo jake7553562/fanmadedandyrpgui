@@ -301,3 +301,157 @@ Tab2:AddButton({
       		game.ReplicatedStorage.Assets.Requests.Communicate:FireServer(game.ReplicatedStorage.Assets.VIPMorphs.DPAstro)
   	end    
 })
+
+Tab2:AddButton({
+	Name = "DP Bald Dandy",
+	Callback = function()
+      		game.ReplicatedStorage.Assets.Requests.Communicate:FireServer(game.ReplicatedStorage.Assets.VIPMorphs.DPBaldDandy)
+  	end    
+})
+
+Tab2:AddButton({
+	Name = "DP Boxten",
+	Callback = function()
+      		game.ReplicatedStorage.Assets.Requests.Communicate:FireServer(game.ReplicatedStorage.Assets.VIPMorphs.DPBoxten)
+  	end    
+})
+
+Tab2:AddButton({
+	Name = "DP Brightney",
+	Callback = function()
+      		game.ReplicatedStorage.Assets.Requests.Communicate:FireServer(game.ReplicatedStorage.Assets.VIPMorphs.DPBrightney)
+  	end    
+})
+
+Tab2:AddButton({
+	Name = "DP Cosmo",
+	Callback = function()
+      		game.ReplicatedStorage.Assets.Requests.Communicate:FireServer(game.ReplicatedStorage.Assets.VIPMorphs.DPCosmo)
+  	end    
+})
+
+Tab2:AddButton({
+	Name = "DP Dandy",
+	Callback = function()
+      		game.ReplicatedStorage.Assets.Requests.Communicate:FireServer(game.ReplicatedStorage.Assets.VIPMorphs.DPDandy)
+  	end    
+})
+
+Tab2:AddButton({
+	Name = "DP Flutter",
+	Callback = function()
+      		game.ReplicatedStorage.Assets.Requests.Communicate:FireServer(game.ReplicatedStorage.Assets.VIPMorphs.DPFlutter)
+  	end    
+})
+
+Tab2:AddButton({
+	Name = "DP Gigi",
+	Callback = function()
+      		game.ReplicatedStorage.Assets.Requests.Communicate:FireServer(game.ReplicatedStorage.Assets.VIPMorphs.DPGigi)
+  	end    
+})
+
+Tab2:AddButton({
+	Name = "DP Glisten",
+	Callback = function()
+      		game.ReplicatedStorage.Assets.Requests.Communicate:FireServer(game.ReplicatedStorage.Assets.VIPMorphs.DPGlisten)
+  	end    
+})
+
+Tab2:AddButton({
+	Name = "DP Goob",
+	Callback = function()
+      		game.ReplicatedStorage.Assets.Requests.Communicate:FireServer(game.ReplicatedStorage.Assets.VIPMorphs.DPGoob)
+  	end    
+})
+
+Tab2:AddButton({
+	Name = "DP Pebble",
+	Callback = function()
+      		game.ReplicatedStorage.Assets.Requests.Communicate:FireServer(game.ReplicatedStorage.Assets.VIPMorphs.DPPebble)
+  	end    
+})
+
+Tab2:AddButton({
+	Name = "DP Poppy",
+	Callback = function()
+      		game.ReplicatedStorage.Assets.Requests.Communicate:FireServer(game.ReplicatedStorage.Assets.VIPMorphs.DPPoppy)
+  	end    
+})
+
+Tab2:AddButton({
+	Name = "DP Razzle",
+	Callback = function()
+      		game.ReplicatedStorage.Assets.Requests.Communicate:FireServer(game.ReplicatedStorage.Assets.VIPMorphs.DPRazzle)
+  	end    
+})
+
+Tab2:AddButton({
+	Name = "DP Rodger",
+	Callback = function()
+      		game.ReplicatedStorage.Assets.Requests.Communicate:FireServer(game.ReplicatedStorage.Assets.VIPMorphs.DPRodger)
+  	end    
+})
+
+Tab2:AddButton({
+	Name = "DP Scraps",
+	Callback = function()
+      		game.ReplicatedStorage.Assets.Requests.Communicate:FireServer(game.ReplicatedStorage.Assets.VIPMorphs.DPScraps)
+  	end    
+})
+
+Tab2:AddButton({
+	Name = "DP Shelly",
+	Callback = function()
+      		game.ReplicatedStorage.Assets.Requests.Communicate:FireServer(game.ReplicatedStorage.Assets.VIPMorphs.DPShelly)
+  	end    
+})
+
+Tab2:AddButton({
+	Name = "DP Shrimpo",
+	Callback = function()
+      		game.ReplicatedStorage.Assets.Requests.Communicate:FireServer(game.ReplicatedStorage.Assets.VIPMorphs.DPShrimpo)
+  	end    
+})
+
+Tab2:AddButton({
+	Name = "DP Spider",
+	Callback = function()
+      		game.ReplicatedStorage.Assets.Requests.Communicate:FireServer(game.ReplicatedStorage.Assets.VIPMorphs.DPSpider)
+  	end    
+})
+
+Tab2:AddButton({
+	Name = "DP Sprout",
+	Callback = function()
+      		game.ReplicatedStorage.Assets.Requests.Communicate:FireServer(game.ReplicatedStorage.Assets.VIPMorphs.DPSprout)
+  	end    
+})
+
+Tab2:AddButton({
+	Name = "DP Teagan",
+	Callback = function()
+      		game.ReplicatedStorage.Assets.Requests.Communicate:FireServer(game.ReplicatedStorage.Assets.VIPMorphs.DPTeagan)
+  	end    
+})
+
+Tab2:AddButton({
+	Name = "DP Tisha",
+	Callback = function()
+      		game.ReplicatedStorage.Assets.Requests.Communicate:FireServer(game.ReplicatedStorage.Assets.VIPMorphs.DPTisha)
+  	end    
+})
+
+Tab2:AddButton({
+	Name = "DP Toodles",
+	Callback = function()
+      		game.ReplicatedStorage.Assets.Requests.Communicate:FireServer(game.ReplicatedStorage.Assets.VIPMorphs.DPToodles)
+  	end    
+})
+
+Tab2:AddButton({
+	Name = "DP Vee",
+	Callback = function()
+      		game.ReplicatedStorage.Assets.Requests.Communicate:FireServer(game.ReplicatedStorage.Assets.VIPMorphs.DPVee)
+  	end    
+})
