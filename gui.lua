@@ -588,3 +588,10 @@ Tab2:AddButton({
       		game.ReplicatedStorage.Assets.Requests.Communicate:FireServer(game.ReplicatedStorage.Assets.VIPMorphs.Cotton)
   	end    
 })
+
+Tab2:AddButton({
+	Name = "Twisted Shelly but her old design (NO ANIM)",
+	Callback = function()
+      		game.ReplicatedStorage.Assets.Requests.Communicate:FireServer(game.ReplicatedStorage.Assets.Monsters.secret)
+  	end    
+})
